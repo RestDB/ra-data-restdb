@@ -1,0 +1,32 @@
+{
+  "name": "ra-data-restdb",
+  "version": "0.0.1",
+  "description": "restdb.io data provider for React Admin",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RestDB/ra-data-restdb.git"
+  },
+  "keywords": [
+    "react-admin",
+    "dataprovider",
+    "restdb",
+    "rest"
+  ],
+  "author": "Knut Martin Tornes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RestDB/ra-data-restdb/issues"
+  },
+  "homepage": "https://github.com/RestDB/ra-data-restdb#readme",
+  "dependencies": {
+    "query-string": "^6.13.1",
+    "react-admin": "^3.8.1"
+  }
+}
